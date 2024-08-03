@@ -1,0 +1,14 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\bin\Debug\net8.0\MeuprimeiroProgramaC#.exe
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\bin\Debug\net8.0\MeuprimeiroProgramaC#.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\bin\Debug\net8.0\MeuprimeiroProgramaC#.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\bin\Debug\net8.0\MeuprimeiroProgramaC#.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\bin\Debug\net8.0\MeuprimeiroProgramaC#.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\refint\MeuprimeiroProgramaC#.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\MeuprimeiroProgramaC#.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Área de trabalho\programação\introdução C#\MeuprimeiroProgramaC#\MeuprimeiroProgramaC#\obj\Debug\net8.0\ref\MeuprimeiroProgramaC#.dll
